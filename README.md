@@ -3,3 +3,6 @@
 
 ### Предмет: Компьютерная лингвистика
 [Домашнее задание № 2](https://github.com/avbut/hseCL/blob/main/%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%94%D0%972_%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.ipynb)
+
+### Предмет: Python
+[Домашнее задание №4](https://github.com/avbut/hseCL/blob/main/%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4.ipynb)
